@@ -1,2 +1,2 @@
 # StudiesinPython
-Repository of Python studies
+Repository of Python
