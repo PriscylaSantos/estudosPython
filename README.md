@@ -1,2 +1,2 @@
-# StudiesinPython
-Repository of Python
+# Estudos
+Python 3.5
