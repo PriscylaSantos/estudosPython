@@ -3,7 +3,7 @@ Livro [Automatize tarefas maçantes com Python](https://novatec.com.br/livros/au
 Roteiro de estudos:
 
 1. [Básico sobre Python](BasicoSobrePython)
-2. Controle de Fluxo
+2. [Controle de Fluxo](ControleDeFluxo)
 3. Funções
 4. Listas
 5. Dicionários e estutura de dados
