@@ -52,5 +52,93 @@ Pra executar o [exemplo](OperBooleano.py) digite no terminal:
 
     $ python3 OperBooleano.py
 
+#### Instrução de controle de fluxo
+
+##### if, else e elif
+
+Uma instrução _if_ será executada se a expressão for True, caso seja False será ignorada. o _if_ pode ser seguido de um _else_ que será executado se a expressão for False. A instrução _elif_ pode vir após um _if_ ou de outro _elif_, que só será executado se as expressões anteriores forem False.
+
+_syntax_ do if
+``` python 
+    if expressao:
+        # executa se a expressao for verdadeira/True
+``` 
+
+_syntax_ do else
+``` python 
+    if expressao:
+        # executa se a expressao for verdadeira/True
+    else:
+        # executa se a expressao for falsa/False
+``` 
+
+_syntax_ do elif
+``` python 
+    if expressao1:
+        # executa se a expressao1 for verdadeira/True
+    elif expressao2:
+        # executa se a expressao2 for verdadeira/True
+    elif expressao3:
+        # executa se a expressao3 for verdadeira/True
+    else:
+        # executa se nenhuma das expressoes acima forem verdadeiras/True
+``` 
+
+_Exemplo_:
+``` python
+    valor = 5
+    if 5 > valor:
+        print('5 é maior que variável valor')
+    elif 5 < valor:
+        print('5 é menor que variável valor')
+    else:
+        print('5 é igual a variável valor')
+```
+
+Pra executar o [exemplo](IfElseElif.py) digite no terminal:
+
+    $ python3 IfElseElif.py
+
+
+##### loop while
+
+Uma instrução _while_ será executada enquando a expressão for True, caso seja False será interrompida.
+
+_syntax_ do while
+``` python 
+    while expressao:
+        # executa enquanto expressao for verdadeira/True
+``` 
+
+_Exemplo_:
+``` python
+    valor = 0
+    while valor < 5:
+        print('A variavel valor é menor que 5')
+        valor = valor + 1
+```
+
+Pra executar o [exemplo](LoopWhile.py) digite no terminal:
+
+    $ python3 LoopWhile.py
+
+##### for e a função range()
+Uma instrução _for_  executada um bloco de código um determinado número de vezes
+
+_syntax_ do for
+``` python 
+    for variavel in range(inicio, fim, incremento):
+        # executa até variavel atingir o valor final(fim)
+``` 
+
+_Exemplo_:
+``` python
+    for i in range(0, 10, 2)
+        print(i)
+```
+Pra executar o [exemplo](ForERange.py) digite no terminal:
+
+    $ python3 ForERange.py
+
 
 
