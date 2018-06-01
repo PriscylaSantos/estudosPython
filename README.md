@@ -1,2 +1,5 @@
 # Estudos
-Python 3.5
+
+- [Tutorials Point](TutorialPoint)
+
+- [Livro](Livro)
