@@ -4,7 +4,7 @@ Roteiro de estudos:
 
 1. [Básico sobre Python](BasicoSobrePython)
 2. [Controle de Fluxo](ControleDeFluxo)
-3. Funções
+3. [Funções](Funcoes)
 4. Listas
 5. Dicionários e estutura de dados
 6. Manipulaçao de strings
