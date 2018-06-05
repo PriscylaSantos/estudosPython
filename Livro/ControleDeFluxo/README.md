@@ -13,14 +13,14 @@ fatura_paga = True
 #### Operadores de Comparação
 Esses operadors comparam dois valores e retornam um booleano como resposta.
 
-Operador | Significado
-:------: | :---------:
-==       | Igual a
-!=       | Diferente de
-<        | Menor que
->        |Maior que
-<=       | Menor igual
->=       | Maior igual
+|Operador | Significado
+|:------: | :---------:
+|==       | Igual a
+|!=       | Diferente de
+|<        | Menor que
+|>        |Maior que
+|<=       | Menor igual
+|>=       | Maior igual
 
 > __Atenção__: O operador __'=='__ pergunta se dois valores são iguais, já o operador __'='__ atribui valor a uma variável.
 
